@@ -1,6 +1,7 @@
 package section01;
 
 public class Petelki {
+
     public static void main(String[] args) {
         int x = 1;
         System.out.println("Przed wykonaniem pętli");
